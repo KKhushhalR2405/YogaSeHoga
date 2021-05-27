@@ -1,3 +1,3 @@
 # YogaSeHoga
 
-## PyTorch Summer Hackathonn
+## PyTorch Summer Hackathon
